@@ -1,0 +1,4 @@
+#Mon Jan 15 02:50:30 IST 2024
+base.0=/home/mukund/flutter_flashcards/flutter_flashcards/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
